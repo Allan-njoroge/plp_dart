@@ -1,5 +1,3 @@
-import 'dart:io';
-
 // Interface for beings that can speak
 abstract class Speaker {
   void speak();
